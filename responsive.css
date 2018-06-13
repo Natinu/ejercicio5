@@ -9,7 +9,6 @@
 		font-family: 'Open Sans', sans-serif;
 		margin: 0px;
 		padding: 0px;
-
 	}
 	div.row{
 		clear: both;
@@ -23,7 +22,6 @@
 		text-align: center;
 		margin:auto;
 		padding-top: 50px;
-
 	}
 	h1{
 		margin: 0px;
@@ -45,13 +43,11 @@
 		max-width: 100%;
 		display: block;
 		margin: auto;
-
 	}
 	@media (max-width: 480px) {
 	h1{
 		font-size:6vh;
 	}
-
 	.col-sm-1{
 		width: 10%
 	}
